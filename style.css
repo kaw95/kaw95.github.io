@@ -1,0 +1,199 @@
+h2{
+    font-family: 'ZCOOL KuaiLe', cursive;
+    text-align: center;
+    filter: blur(1.2px);
+    font-size: 80px;
+    color: #000000;
+}
+
+#accueil{
+    background-image: url('chateauciel1.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 100%;
+    position: absolute;
+    z-index: -22;
+    top: 0;
+ 
+  
+} 
+
+p{
+    font-family: 'ZCOOL KuaiLe', cursive;
+    text-align: right;
+  
+    font-size: 40px;
+    color: #ffffff;
+    margin-top: 30px;
+}
+
+.navbar{
+   background: rgba(0,0,0,0.3) !important;
+   font-family: fantasy;
+    border: #000000;
+   
+}
+
+h3{
+    font-family: 'ZCOOL KuaiLe', cursive;
+    text-align: center;
+    font-size: 60px;
+    color: seashell;
+    margin-top: 700px;
+    
+}
+
+#Synopsis{
+    background-image: url('ciel.jpg');
+    background-repeat: no-repeat;
+  
+    width: 100%;
+    position: absolute;
+    z-index: -22;
+    top: 0;
+    height:1000px ;
+   opacity:0.9 ;
+    
+}
+
+ h4{
+position: absolute;
+width: 1395px;
+height: 216px;
+left: 174px;
+top: 120px;
+font-family: ZCOOL KuaiLe;
+font-style: normal;
+font-weight: normal;
+font-size: 64px;
+line-height: 64px;
+
+color: rgb(19, 18, 18);
+
+}  
+
+h5{
+    font-family: ZCOOL KuaiLe; 
+    font-size: 65px;
+    text-align: center;
+    top: 17px;
+   
+}
+
+#Personnages{
+    background-image: url('personnage.jpg');
+    background-repeat: no-repeat;
+    width: 100%;
+    position: absolute;
+    z-index: -22;
+    top: 0;
+    height:1050px ; 
+}
+
+h6{
+width: 300px;
+height: 976px;
+left: 616px;
+top: 195px;
+font-family: ZCOOL KuaiLe;
+font-style: normal;
+font-weight: normal;
+font-size: 55px;
+text-align: center;
+margin-top: 70px; 
+filter: blur(1px);
+color: #000000;
+line-height: 72px;
+left: 900px;
+}
+
+
+h7{
+    position: absolute;
+    width: 454px;
+    height: 72px;
+    right: 700px;
+    top: 10px;
+    font-family: ZCOOL KuaiLe;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 72px; 
+   
+    
+    color: #000000;
+    
+    filter: blur(1.2px);
+}
+
+#Autres{
+    background-image: url('1film.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 100%;
+    position: absolute;
+    z-index: -22;
+    top: 0;
+    height: 1500px;
+ 
+}
+
+h8{
+    position: absolute;
+    left: 150px;
+    top: 80px;
+    font-family: ZCOOL KuaiLe;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+  
+    
+    color: rgb(0, 0, 0);
+}
+
+h9{
+
+
+    position: absolute;
+    width: 506px;
+    height: 72px;
+    left: 400px;
+    top: 300px;
+    
+    font-family: ZCOOL KuaiLe;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 290px;
+    line-height: 72px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: rgb(212, 47, 47);
+    
+    filter: blur(1.5px);
+}
+
+
+
+ul{
+    list-style-position: inside;
+    list-style-type: none;
+    text-align: center;
+}
+strong{
+    background: rgb(190, 182, 182);
+}
+
+h10{
+    position: absolute;
+    right: 100px;
+    top: 80px;
+    font-family: ZCOOL KuaiLe;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 27px;
+  
+    
+    color: rgb(0, 0, 0); 
+}
