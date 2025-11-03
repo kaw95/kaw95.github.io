@@ -164,5 +164,8 @@ var Autres = {
 
   ];
 
-  var router = new VueRouter ({routes});
+  var router = new VueRouter({
+  routes,
+  mode: 'hash'
+});
   var app = new Vue ({router}).$mount("#app");
